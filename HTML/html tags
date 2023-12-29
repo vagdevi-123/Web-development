@@ -1,0 +1,19 @@
+commenting  -begin with <!-- and end with -->
+<!DOCTYPE html>  - used by the browser to understand the version of the html used in the document.
+Heading  - html has six level of headings <h1>,<h2>.....<h6>
+paragraph  - <p>structure your data in paragraph</p>
+line break  - <br /> element following it starts from the next line.
+centering  - <center> to put any content in center of the page</center>
+Horizontal lines  - <hr /> created a line from the current position in the document.
+image  - tis tsag is a self closing tag, End of the tag has a /(forward slash)
+          <img src="images loacation"/>
+          alt- the alt also plays a vital role in search engine .alt must be description
+          <img src="image location" alt="description about image"/>
+video  - tag requires a src attribute with a link to the video source.
+          <video src="myvideo.mp4" width="320"height="240"controls:play></video>
+          the control attribute instruct the browser to include basic video controls like play.pause,skip.
+anchor  - ability to link to another webpages, href-hyperline reference used to link to a path or address
+          to where file located.
+          <a href=link of another page"></a>
+
+openign links in a new window  -<a href="link of the page"target="_blank"></a>
