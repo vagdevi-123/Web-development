@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,800,900);
+h1{
+    
+    font-weight: 200;
+    font-size: 50px;
+    text-transform: uppercase;
+    border-bottom: 5px solid;
+
+}
+body{
+    background-color:lightgrey;
+
+    font-family: "Source Code Pro";
+    font-weight: 200;
+}
+img{
+    width: 30%;
+    height: 40%;
+    border-radius: 50%;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vb;
+}
+button{
+    margin: 30px auto 0;
+    padding: 10px 30px;
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 14px;
+    border: 1px solid;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    
+}
+
+button:hover {
+    background-color: purple;
+
+    color: #04AA6D;
+    transition: 0.5s;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: #04AA6D;
+}
+
+}
